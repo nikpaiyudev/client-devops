@@ -8,6 +8,8 @@ function App() {
   const [count, setCount] = useState(0);
 
   console.log('Added a console.log');
+    console.log('Added a console.log1233');
+
 
   return (
     <>
