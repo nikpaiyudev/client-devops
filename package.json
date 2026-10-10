@@ -22,7 +22,11 @@
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",
     "babel-plugin-react-compiler": "^1.0.0",
+    "commit-analyser": "link: @semantic-release/commit-analyser",
+    "github": "link: @semantic-release/github",
     "oxlint": "^1.81.0",
+    "release-notes-generator": "link: @semantic-release/release-notes-generator",
+    "semantic-release": "^25.0.9",
     "typescript": "~6.0.2",
     "vite": "^8.3.0"
   }
